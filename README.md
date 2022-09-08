@@ -1,4 +1,4 @@
-# Yihan Duan
+# Yihan (Kevin) Duan
 
 I'm Yihan (Kevin) Duan from China. I am currently enrolled in a master's program at Case Western Reserve University. 
 
