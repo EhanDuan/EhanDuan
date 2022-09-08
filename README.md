@@ -1,4 +1,8 @@
-### Hi there 👋
+# Yihan Duan
+---
+I'm Yihan Kevin Duan from China. I am currently enrolled in a master's program at Case Western Reserve University. 
+
+Now I work as an software engineer intern at [Amotions](https://amotionsinc.com/).
 
 <!--
 **EhanDuan/EhanDuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
