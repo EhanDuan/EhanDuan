@@ -2,7 +2,7 @@
 
 I'm Yihan (Kevin) Duan from China. I am currently enrolled in a master's program at Case Western Reserve University. 
 
-Now I work as an software engineer intern at [Amotions](https://amotionsinc.com/).
+Now I work as a software engineer intern at [Amotions](https://amotionsinc.com/).
 
 🧑‍💻 Tech Skills:
 <p align="center">
