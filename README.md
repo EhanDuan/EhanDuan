@@ -4,7 +4,7 @@ I'm Yihan (Kevin) Duan from China. I am currently enrolled in a master's program
 
 Now I work as an software engineer intern at [Amotions](https://amotionsinc.com/).
 
-- 🧑‍💻 Tech I work on :
+🧑‍💻 Tech Skills:
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="python" width="55" height="55"/>
